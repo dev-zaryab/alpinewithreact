@@ -1,0 +1,172 @@
+.swiper {
+    margin-top: 0.1rem;
+}
+
+.spinner-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white;
+    z-index: 999999;
+}
+
+.spinner-wrapper img {
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+/* div ul li a:hover {
+    background-color: rgba(0, 0, 0, 0.1)
+} */
+
+.head-name {
+    color: #fff;
+}
+
+.font-size {
+    font-weight: 600;
+}
+
+.first-content {
+    color: #E4A11B;
+}
+
+.icon-image {
+    font-size: 50px;
+    color: #E8762B;
+}
+
+.image-icon {
+    width: 65px;
+}
+
+.image-icon-sheesha {
+    width: 50px;
+}
+
+.inquiry-section {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url('https://www.alpineriverhill.com/assets/img/slider/5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+}
+
+.form-size {
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.form-size-2 {
+    width: 15px;
+}
+
+.footer-top {
+    background-image: url('../img/logo-yellow.png');
+    height: 60px;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.bg-container {
+    background-color: #FFBB33;
+    padding-bottom: 30px;
+}
+
+.quick-links {
+    height: 8px;
+}
+
+.quick-links a{
+    color: #fff;
+}
+
+.foot-end {
+    background-color: #ff8800;
+    padding-bottom: 1px;
+}
+
+.foot-end-content {
+    color: #fff;
+    height: 50px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .row .card {
+    box-shadow: 5px 5px 20px 5px rgb(194, 193, 193);
+}
+
+.about-img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.text-indent {
+    text-indent: 30px;
+}
+
+.about-bg-img {
+    background-image: url("https://www.alpineriverhill.com/assets/img/slider/5.jpg");
+    width: 100%;
+    height: 100%;
+}
+
+.contact-img {
+    width: 50%;
+    border-radius: 5000px;
+    border: 5px solid #858635;
+    margin-left: 100px;
+}
+
+.contact h6 {
+    font-weight: bold;
+    color: #858635;
+}
+
+.contact a {
+    color: black;
+    padding-right: 15px;
+}
+  
+.contact a:hover {
+    text-decoration: underline;
+}
+
+.social-facebook:hover {
+    color: #365899;
+}
+  
+.social-instagram:hover {
+    color: #EE1B22;
+}
+  
+.social-whatsapp:hover {
+    color: #25D366;
+}
+  
+.social-snapchat:hover {
+    color: #F7EC1E;
+}
+  
+.social-youtube:hover {
+    color: #FF0000;
+}
+  
+.social-google:hover {
+    color: #EE1B22;
+}
+
+/* @media only screen and (max-width: 768px) {
+    .spinner-wrapper img {
+        width: 40%;
+        margin-left: 30%;
+        margin-top: 50%;
+    }
+} */
